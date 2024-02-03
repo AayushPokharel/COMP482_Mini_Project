@@ -35,12 +35,12 @@ To explore the EDA and algorithms implemented, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/AayushPokharel/COMP482_Mini_Project.git```
+   git clone https://github.com/AayushPokharel/COMP482_Mini_Project.git
 
 2. Change into the Project Directory.
 
    ```bash
-   cd COMP_482_Mini_Project```
+   cd COMP_482_Mini_Project
 
 4. Create and Activate a python virtual environment.
 
@@ -51,11 +51,11 @@ To explore the EDA and algorithms implemented, follow these steps:
 3. Install the necessary dependencies.
 
    ```bash
-   pip install -r requirements```
+   pip install -r requirements
 
 4. Open it in Jupyter Notebook
 
    ```bash
-   jupyter notebook main.ipynb```
+   jupyter notebook main.ipynb
 
 -----
